@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		380F5FB323FAACA100E29078 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380F5FB223FAACA100E29078 /* ImageView.swift */; };
+		380F5FBD23FADF4000E29078 /* UIKitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380F5FBC23FADF4000E29078 /* UIKitView.swift */; };
 		3891704923DDCE36002BBF77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3891704823DDCE36002BBF77 /* AppDelegate.swift */; };
 		3891704B23DDCE36002BBF77 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3891704A23DDCE36002BBF77 /* SceneDelegate.swift */; };
 		3891704E23DDCE36002BBF77 /* Test2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3891704C23DDCE36002BBF77 /* Test2.xcdatamodeld */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		380F5FB223FAACA100E29078 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		380F5FBC23FADF4000E29078 /* UIKitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitView.swift; sourceTree = "<group>"; };
 		3891704523DDCE36002BBF77 /* Test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3891704823DDCE36002BBF77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3891704A23DDCE36002BBF77 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				3891704823DDCE36002BBF77 /* AppDelegate.swift */,
 				3891704A23DDCE36002BBF77 /* SceneDelegate.swift */,
 				3891704F23DDCE36002BBF77 /* ContentView.swift */,
+				380F5FBC23FADF4000E29078 /* UIKitView.swift */,
 				380F5FB223FAACA100E29078 /* ImageView.swift */,
 				3891705123DDCE39002BBF77 /* Assets.xcassets */,
 				3891705623DDCE39002BBF77 /* LaunchScreen.storyboard */,
@@ -276,6 +279,7 @@
 				380F5FB323FAACA100E29078 /* ImageView.swift in Sources */,
 				3891704923DDCE36002BBF77 /* AppDelegate.swift in Sources */,
 				3891704E23DDCE36002BBF77 /* Test2.xcdatamodeld in Sources */,
+				380F5FBD23FADF4000E29078 /* UIKitView.swift in Sources */,
 				3891705023DDCE36002BBF77 /* ContentView.swift in Sources */,
 				3891704B23DDCE36002BBF77 /* SceneDelegate.swift in Sources */,
 			);
